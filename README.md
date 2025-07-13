@@ -8,20 +8,20 @@ This platform is designed to streamline the internship management process for en
 ### For Administrators
 - User management (students, professors, admins)
 - Post internship offers for students
-- Accept/deny internship applications submitted by students *(in progress)*
-- Plan and manage poster sessions *(in progress)*
-- Review student posters *(in progress)*
+- Accept/deny internship applications submitted by students
+- Plan and manage poster sessions 
+- Review student posters 
 
 ### For Students
 - Submit internship applications
 - Browse and apply to available internship offers
-- Upload and manage posters *(in progress)*
-- View poster session calendar *(in progress)*
+- Upload and manage posters 
+- View poster session calendar
 
 ### For Professors
-- Review student posters *(in progress)*
-- View poster session calendar *(in progress)*
-- Vote on best posters *(in progress)*
+- Review student posters 
+- View poster session calendar 
+- Vote on best posters 
 
 ## Technology Stack
 
@@ -41,36 +41,6 @@ This platform is designed to streamline the internship management process for en
 
 ## Project Structure
 
-```
-project/
-├── backend/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/springers/
-│   │   │   │   ├── CONTROLLERS/     # REST API endpoints
-│   │   │   │   ├── ENTITIES/        # Domain models
-│   │   │   │   ├── REPOSITORIES/    # Data access layer
-│   │   │   │   ├── SECURITY/        # Authentication & authorization
-│   │   │   │   ├── SERVICES/        # Business logic
-│   │   │   │   └── UTILITIS/        # Helper classes
-│   │   │   └── resources/           # Configuration files
-│   │   └── test/                    # Unit tests
-│   └── pom.xml                      # Maven dependencies
-│
-└── frontend/
-    ├── src/
-    │   ├── app/
-    │   │   ├── components/          # Angular components
-    │   │   ├── services/            # API services
-    │   │   └── app.module.ts        # Module definitions
-    │   ├── assets/                  # Static resources
-    │   └── environments/            # Environment configurations
-    ├── angular.json                 # Angular configuration
-    └── package.json                 # NPM dependencies
-```
-
-## Screenshots
-/contact%20info.png)
 
 ## Installation and Setup
 
@@ -92,5 +62,3 @@ project/
 3. Start the development server: `ng serve`
 4. Access the application at `http://localhost:4200`
 
-## Development Status
-This project is currently under development with several features marked as "in progress".
