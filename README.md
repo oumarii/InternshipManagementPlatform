@@ -70,30 +70,7 @@ project/
 ```
 
 ## Screenshots
-
-### Login Interface
-![Login Interface](/frontend_Stage1.0/src/assets/captures/login.png)
-
-### Admin Interface
-![Admin Interface](/frontend_Stage1.0/src/assets/captures/admin%20interface.png)
-
-### User Management Features
-- **Search functionality**:  
-  ![Search Feature](/frontend_Stage1.0/src/assets/captures/search.png)
-
-- **Filter functionality**:  
-  ![Filter Feature](/frontend_Stage1.0/src/assets/captures/filter.png)
-
-- **Adding users**:  
-  ![Adding Users](/frontend_Stage1.0/src/assets/captures/adding.png)
-  ![Adding Interface](/frontend_Stage1.0/src/assets/captures/adding%20interface.png)
-
-### Student Interface
-- **Offers view**:  
-  ![Student Interface](/frontend_Stage1.0/src/assets/captures/interface%20student.png)
-
-- **Contact information**:  
-  ![Contact Info](/frontend_Stage1.0/src/assets/captures/contact%20info.png)
+/contact%20info.png)
 
 ## Installation and Setup
 
